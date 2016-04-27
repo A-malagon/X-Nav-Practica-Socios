@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $("#tabs").tabs();
-     
+    
  
     $("#tabmyline").click(function(){
         $("#myline").empty();

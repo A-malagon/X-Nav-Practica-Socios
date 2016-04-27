@@ -2,7 +2,7 @@ body{
     background-color: red;
     color: black;
 }
- 
+
 
 img {
     height: 130px;
